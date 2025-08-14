@@ -7,7 +7,7 @@ Step 2: Then Copy My code in cell.
 
 Step 3: And Boom! Your Prediction model is Built.
 
-Understand the code and practive more!!
+Understand the code and practice more!!
 Please Follow My GitHub!
 
   THANKS !!
